@@ -1,12 +1,10 @@
 {
-    "name": "node-red-marahon-copy",
-    "version": "1.0.0",
+    "name": "marathoncopy",
+    "version": "1.0.1",
     "description": "A Node-RED node to trigger a media copy in Marathon or Borneo.",
-    "dependencies": {
-    },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/maxstrambini/node-red-marathon-copy.git",
+        "url": "git+https://github.com/maxstrambini/node-red-marathon-copy.git"
     },
     "license": "Apache-2.0",
     "keywords": [

@@ -15,6 +15,6 @@ module.exports = function(RED) {
             }
         });
     }
-    RED.nodes.registerType("borneo-marathon",MarathonCopyNode);
-    RED.library.register("borneo-marathon");
+    RED.nodes.registerType("marathoncopy",MarathonCopyNode);
+    RED.library.register("marathoncopy");
 }
