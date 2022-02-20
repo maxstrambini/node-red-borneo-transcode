@@ -1,6 +1,6 @@
 {
     "name": "marathoncopy",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "A Node-RED node to trigger a media copy in Marathon or Borneo.",
     "repository": {
         "type": "git",
